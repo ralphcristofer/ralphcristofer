@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ralph Cristofer Fugaban</h1>
-<h3 align="center">Software Engineering at Centennial College</h3>
+<h3 align="center">Software Engineering at Centennial College - Fall 2023 Third Semester</h3>
 
 - 🌱 I'm currently learning MERN stack (MongoDB, Express.js, React.js, Node.js), Java Spring Boot and Hibernate, Oracle advanced PL/SQL and CRUD Operations, Software Engineering Systems Design
 - 💡 I'm familiar with C#, Python, Linux Bash, HTML, CSS, Javascript
