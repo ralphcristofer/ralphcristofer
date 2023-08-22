@@ -1,4 +1,11 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Ralph Cristofer Fugaban</h1>
+<h3 align="center">Software Engineering at Centennial College</h3>
+
+- 🌱 I'm currently learning MERN stack (MongoDB, Express.js, React.js, Node.js), Java Spring Boot and Hibernate, Oracle advanced PL/SQL and CRUD Operations, Software Engineering Systems Design
+- 💡 I'm familiar with C#, Python, Linux Bash, HTML, CSS, Javascript
+- 📜 I've learned basic programming in the past like Turbo Basic, C++, Cobol, Assembly
+- 🖥️ I've worked on some personal or school projects like <a href="https://docs.google.com/presentation/d/1RocEVhrHcLwuX_jFPL1JJpWXfiV0F1ZkjymXuNNqIBk/">Battleship in C#</a>
+
 
 <!--
 **ralphcristofer/ralphcristofer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -6,7 +13,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning MERN stack (MongoDB, Express.js, React.js, Node.js), Java Spring Boot and Hibernate, Oracle advanced PL/SQL and CRUD Operations, Software Engineering Systems Design
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
