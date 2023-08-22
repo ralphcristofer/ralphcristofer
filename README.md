@@ -10,6 +10,9 @@
 - ⚡ Fun fact: I play guitar 🎸, love to watch Anime 📺, love to travel and explore 🌴, volunteer in church broadcasting 🎥
 - 📫 How to reach me: email me at ralph.fugaban@gmail.com
 
+![myDesk](https://github.com/ralphcristofer/ralphcristofer/assets/46301746/378c2497-11bb-4d4a-a9da-88a0678ec4f8)
+
+
 
 <!--
 **ralphcristofer/ralphcristofer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
