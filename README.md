@@ -2,9 +2,13 @@
 <h3 align="center">Software Engineering at Centennial College - Fall 2023 Third Semester</h3>
 
 - 🌱 I'm currently learning MERN stack (MongoDB, Express.js, React.js, Node.js), Java Spring Boot and Hibernate, Oracle advanced PL/SQL and CRUD Operations, Software Engineering Systems Design
-- 💡 I'm familiar with C#, Python, Linux Bash, HTML, CSS, Javascript
-- 📜 I've learned basic programming in the past like Turbo Basic, C++, Cobol, Assembly
-- 🖥️ I've worked on some personal or school projects like <a href="https://docs.google.com/presentation/d/1RocEVhrHcLwuX_jFPL1JJpWXfiV0F1ZkjymXuNNqIBk/">Battleship in C#</a>
+- 💡 I'm familiar with C#, Python, Linux Bash, HTML, CSS, Javascript, Bootstrap 
+- 📜 I've learned basic programming in the past like Turbo Basic, C++, Cobol, Assembly, PHP
+- 🤔 I'm looking for help in my Software Engineering or Development Internship (and possibly, a long-term career) and for mentors that will guide me in my Software Engineering journey
+- 🖥️ I've worked in different computer-related fields: System and Network Administration, WordPress Design, Quality Assurance Testing
+- 👯 I’m looking to collaborate on Software Development Projects to actively learn from peers and boost my skills
+- ⚡ Fun fact: I play guitar 🎸, love to watch Anime 📺, love to travel and explore 🌴, volunteer in church broadcasting 🎥
+- 📫 How to reach me: email me at ralph.fugaban@gmail.com
 
 
 <!--
@@ -20,4 +24,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- 🖥️ I've worked on some personal or school projects like <a href="https://docs.google.com/presentation/d/1RocEVhrHcLwuX_jFPL1JJpWXfiV0F1ZkjymXuNNqIBk/">Battleship in C#</a>
 -->
