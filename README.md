@@ -2,7 +2,7 @@
 <h3 align="center">Software Engineering at Centennial College - Fall 2023 Third Semester</h3>
 
 - 🌱 I'm currently learning MERN stack (MongoDB, Express.js, React.js, Node.js), Java Spring Boot and Hibernate, Oracle advanced PL/SQL and CRUD Operations, Software Engineering Systems Design
-- 💡 I'm familiar with C#, Python, Linux Bash, HTML, CSS, Javascript, Bootstrap 
+- 💡 I'm familiar with C#, Java, Python, Linux Bash, HTML, CSS, Javascript, Bootstrap 
 - 📜 I've learned basic programming in the past like Turbo Basic, C++, Cobol, Assembly, PHP
 - 🤔 I'm looking for help in my Software Engineering or Development Internship (and possibly, a long-term career) and for mentors that will guide me in my Software Engineering journey
 - 🖥️ I've worked in different computer-related fields: System and Network Administration, WordPress Design, Quality Assurance Testing
