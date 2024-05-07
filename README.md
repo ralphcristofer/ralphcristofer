@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ralph Cristofer Fugaban</h1>
-<h3 align="center">Software Engineering Student at Centennial College - Winter 2024 - Last Semester</h3>
+<h3 align="center">Software Engineering Graduate at Centennial College (Class of 2024)</h3>
 
-- 🌱 For my last semester, I will be learning Project Management, .NET Technologies (Generics, Linear Data Structures, Entity Framework, Parallel Programming, LINQ, etc.), Software Testing and Quality Assurance (JUnit, VS Code Unit testing, Black Box testing, etc.)  
+- 🌱 In my last semester, I learned Project Management, .NET Technologies (Generics, Linear Data Structures, Entity Framework, Parallel Programming, LINQ, etc.), Software Testing and Quality Assurance (JUnit, VS Code Unit testing, Black Box testing, etc.)  
 - 💡 I'm familiar with C#, Java, Python, Linux Bash, HTML, CSS, Javascript, Bootstrap, MERN stack, JavaFX with JDBC, Oracle advanced PL/SQL, Software Engineering Systems Design
 - 📜 I have acquired basic programming skills in Turbo Basic, C++, COBOL, Assembly, and PHP.
 - 🤔 I'm looking for help in my Software Engineering or Development Internship (and possibly, a long-term career) and for mentors who will guide me in my Software Engineering journey
