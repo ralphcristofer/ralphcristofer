@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ralph Crisfofer Fugaban</h1>
-<h3 align="center">QA Automation Engineer | Software Automation Developer | IT Ops Background</h3>
+<h3 align="center">Software Developer | QA Automation Engineer | IT Ops Background</h3>
 
 <p align="center">
   <a href="mailto:ralph.fugaban@gmail.com">ralph.fugaban@gmail.com</a> •
